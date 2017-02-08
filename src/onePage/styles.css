@@ -680,3 +680,7 @@ aside#east-edu {
 display: inline-block;
 margin-left: 10px;
 }
+
+.header .oneline {
+margin: 12px 0px;
+}
