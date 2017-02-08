@@ -1,0 +1,90 @@
+Jan-24-2017
+
+
+Summary
+
+How to attract the viewer? Let them once see it, having a feeling, must be this
+person that I want.
+
+What is my standing character?
+
+Passionate software programming developer with big heart to get job done, done it
+great. Guaranteed performance and successful web application project developing
+track in 17 years career as the role of Chief Software Architect, Aeam
+Leader, and Distinguished Developer.
+
+What can I do?
+
+Specialise in building responsive and elegant web application
+that be able to scale and maintain.
+
+How can I achieve it?
+
+Develop efficiently in modern workflow. Write code in Vim/Eclipse with rich
+features plugins, version control in Git/SVN, packages download and management
+in NPM/Bower, task runner automation in Grunt/Gulp, app architecture design in
+JavaScript, HTML5, CSS3, and all kinds of frameworks and packages like
+RequireJS/Webpack, Backbone/AngularJS, Bootstrap, Jquery, Sass/Scss/Less etc,
+design in Photoshop, optimise and debug in developer tools, excellent
+server-side programming in Python, Django, SQL, NoSQL, and web server configure
+of Nginx, Apache Server.
+
+What are the skills keywords?
+
+Front end skills: HTML, CSS3, JavaScript, BackBone/AngularJS, JQuery,
+Bootstrap, NPM/Bower, Grunt/Gulp, RequireJS/Webpack, Sass/Scss/Less.
+Back end skills: Python, Django, MySQL, Nginx, Apache Server.
+Tools: Git/SVN, Vim/Eclipse IDE, Photoshop.
+Familiar skills: Java, C, Assembler
+
+All in all, A full stack developer with strong practical experience in software
+programming.
+
+
+Experience
+
+May 2014 - Present
+Web App Engineer
+Self-employed, Consultant, Ethank Corp.
+
+Chief Software Architect in Ethank Corp., in the startup company, from 0 build
+the KTV PaaS(Platform as a Service) Cloud Platform, Membership Management
+Platform, and Market Activity Platform.
+
+October 2011 - April 2014
+Web App Engineer
+ChinaCache
+
+Full stack Web Application Engineer worked in SSR(Scalable Service Routing)
+Group of CSP(Core System Platform) Department, a core team of ChinaCache global
+CDN(Content Delivery Network) System. Accomplished several important projects
+as the leading developer.
+
+October 2002 - December 2004
+Embedded System Engineer
+Netac
+
+Developed USB Flash Disk, consumer electronics. Hands-on experience from
+schematic capture, PCB layout design, prototype bring up and debugging,
+function verification, and collaborating with manufacturers.
+
+August 1999 - September 2002
+Senior Electrical Enginner
+Group Sense Ltd.
+
+Developed Electronics Dictionary, and PDA(Personal Digital Assistance) with
+high volume sale out. Be responsible for the thorough product cycle: product
+requirements idea input to finished product output.
+
+
+Projects
+
+
+简介
+
+工作态度
+资深软件工程师，注重事情结果，在网络应用，嵌入式系统领域，超过17年研发经验。在多个公司成功主持并参与开发了多个项目。
+有良好的工作流程，高效的工作方法，优秀的专业技能。
+网络前端技能：HTML5，CSS3，Javascript，AJAX
+前端软件库及工具：Bootstrap，JQuery，Backbone，RequireJS，Webpack，Grunt
+后端技能：Python，Django，SQL，NoSQL，Nginx
